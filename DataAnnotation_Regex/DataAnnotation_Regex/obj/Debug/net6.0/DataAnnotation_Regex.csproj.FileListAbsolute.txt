@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\bin\Debug\net6.0\DataAnnotation_Regex.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\bin\Debug\net6.0\DataAnnotation_Regex.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\bin\Debug\net6.0\DataAnnotation_Regex.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\bin\Debug\net6.0\DataAnnotation_Regex.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\bin\Debug\net6.0\DataAnnotation_Regex.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\obj\Debug\net6.0\DataAnnotation_Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\obj\Debug\net6.0\DataAnnotation_Regex.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\obj\Debug\net6.0\DataAnnotation_Regex.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\obj\Debug\net6.0\DataAnnotation_Regex.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\obj\Debug\net6.0\DataAnnotation_Regex.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\obj\Debug\net6.0\refint\DataAnnotation_Regex.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\obj\Debug\net6.0\DataAnnotation_Regex.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\obj\Debug\net6.0\DataAnnotation_Regex.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\DataAnnotation_Regex\DataAnnotation_Regex\DataAnnotation_Regex\obj\Debug\net6.0\ref\DataAnnotation_Regex.dll
